@@ -1,0 +1,140 @@
+/* GLOBAL STYLES */
+
+* {
+  font-family: 'lato', sans-serif;
+}
+
+/* TITLE BANNER STYLES */
+
+#title-container {
+  display: flex;
+  height: 125px;
+  width: 60%;
+  background-color: #808080;
+  border-radius: 20px;
+}
+
+#title-container h1 {
+  color: #fff;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* OPEN SCREEN IMAGE STYLES */
+
+#open-screen-image {
+  margin-top: 10px;
+  border-radius: 10px;
+  display: flex;
+  width: 60%;
+  height: 400px;
+  background-image: url(images/technologyai.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+/* USERNAME FORM STYLES */
+
+#name-form-container {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+#name-form-container h3 {
+  text-align: center;
+  background-color: #4682b4;
+  color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#name-form {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+}
+
+#name {
+  flex: 3;
+}
+
+#name-send-button {
+  flex: 1;
+  background-color: #4682b4;
+  color: #fff;
+  border: 1px #4682b4 solid;
+  cursor: pointer;
+}
+
+/* CHAT MESSAGES STYLES */
+
+#messages-container {
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.message {
+  width: 60%;
+  word-wrap: break-word;
+}
+
+.skynet-message {
+  background-color: #808080;
+  color: #fff;
+  border-radius: 10px;
+  padding: 19px;
+}
+
+.user-message {
+  background-color: #4682b4;
+  color: #fff;
+  border-radius: 10px;
+  padding: 19px;
+}
+
+.skynet-msg-header {
+  color: #808080;
+}
+
+.user-msg-header {
+  color: #4682b4;
+}
+
+.timestamp {
+  font-size: 0.6rem;
+  float: right;
+}
+
+/* CHAT FORM STYLES */
+
+#chat-form-container {
+  display: none;
+  width: 60%;
+  height: 70px;
+  margin-top: 10px;
+}
+
+#chat-form {
+  flex-direction: row;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 100%;
+  height: 40px;
+  display: none;
+}
+
+#user-message {
+  flex: 3;
+}
+
+#message-send-button {
+  flex: 1;
+  background-color: #4682b4;
+  color: #fff;
+  border: 1px #4682b4 solid;
+  cursor: pointer;
+}
