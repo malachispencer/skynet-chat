@@ -1,6 +1,6 @@
 # skynet-chat
 
-This is my first application, it's a simple chat application where the user interacts with the computer, which responds with random responses. It's all front end code, script written in JavaScript, DOM queried using jQuery and HMTL and CSS of course used for markup and styling.
+This is my first ever application, it's a simple chat application where the user interacts with the computer, which responds with random responses. It's all front end code, script written in JavaScript, DOM queried using jQuery and HMTL and CSS of course used for markup and styling.
 
 Features:
 
