@@ -2,6 +2,8 @@
 
 This is my first ever application, it's a simple chat application where the user interacts with the computer, which responds with random responses. It's all front end code, script written in JavaScript, DOM queried using jQuery and HMTL and CSS of course used for markup and styling.
 
+![skynetchathome](https://user-images.githubusercontent.com/71923215/95297993-a2c8cb80-087b-11eb-984e-e16b91158f84.jpg)
+
 Features:
 
 1) Username: User enters their name when the page opens, which serves as their display name throughout the messaging.
@@ -10,6 +12,8 @@ Features:
 
 3) Colour bubbles: Like most modern chat applications, messages appear in coloured bubbles, user's colour is blue and the computer's is
    silver.
+   
+![skynetchatmsgs](https://user-images.githubusercontent.com/71923215/95298204-ff2beb00-087b-11eb-9522-ec9ee589343f.jpg)
 
 4) Timestamp: Every message bubble has a small display of the time it was posted in the bottom right corner.
 
