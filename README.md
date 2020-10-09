@@ -12,7 +12,7 @@ Extract zip file
 Open index.html
 ```
 
-Features:
+## Features
 
 1) Username: User enters their name when the page opens, which serves as their display name throughout the messaging.
 
