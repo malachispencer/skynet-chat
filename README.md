@@ -7,7 +7,7 @@ This is my first ever application, it's a simple chat application where the user
 ## How to use
 
 ```shell
-Open index.html
+index.html
 ```
 
 ## Features
