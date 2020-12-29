@@ -79,7 +79,7 @@ $(document).ready(function() {
   }
 
   function scrollToBottom() {
-    window.scrollTop = window.scrollHeight;
+    window.scrollTo(0,document.body.scrollHeight);
   }
 
   function currentTime() {
