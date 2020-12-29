@@ -2,8 +2,6 @@ $(document).ready(function() {
   
   let userName;
 
-  const msgsContainer = document.getElementById('messages-container');
-
   $('#name-form').submit(event => {
     event.preventDefault();
     userName = $('#name')[0].value.trim();
@@ -81,7 +79,7 @@ $(document).ready(function() {
   }
 
   function scrollToBottom() {
-    msgsContainer.scrollTop = msgsContainer.scrollHeight;
+    window.scrollTop = window.scrollHeight;
   }
 
   function currentTime() {
