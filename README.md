@@ -4,11 +4,9 @@ This is my first ever web application, it's a simple chat application where the 
 
 ![skynetchathome](https://user-images.githubusercontent.com/71923215/95297993-a2c8cb80-087b-11eb-984e-e16b91158f84.jpg)
 
-## How to use
+## Use Skynet Chat
 
-```shell
-index.html
-```
+[https://skynet-chat.herokuapp.com](https://skynet-chat.herokuapp.com)
 
 ## Features
 
