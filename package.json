@@ -1,0 +1,22 @@
+{
+  "name": "skynet-chat",
+  "version": "1.0.0",
+  "description": "Chat app where the computer responses with random responses",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malachispencer/skynet-chat.git"
+  },
+  "author": "Malachi Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malachispencer/skynet-chat/issues"
+  },
+  "homepage": "https://github.com/malachispencer/skynet-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
