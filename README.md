@@ -13,7 +13,9 @@ This is my first ever web application, it's a simple chat application where the 
 
 ## Usage
 
-[Skynet Chat's Official Website](https://skynet-chat.herokuapp.com)
+1) Visit [Skynet Chat's Official Website](https://skynet-chat.herokuapp.com).
+
+2) Talk to Skynet!
 
 ## Features
 
