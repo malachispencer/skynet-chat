@@ -38,3 +38,8 @@ This is my first ever web application, it's a simple chat application where the 
    knows they are not talking to a human.
 
 8) Responsive: Use of CSS Flexbox makes the application responsive in the browser.
+
+## See Also
+
+* Check out [SkyRooms](https://skyrooms-ms.herokuapp.com), the successor to Skynet Chat, where you can communicate with real people in real time!
+* Check out my [Codewars repo](https://github.com/malachispencer/codewars), where you can see my solutions for almost 300 Codewars kata.
