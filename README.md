@@ -1,12 +1,19 @@
 # Skynet Chat
 
-This is my first ever web application, it's a simple chat application where the user interacts with the computer, which responds with random responses. Node/Express server with front end code written in JavaScript and jQuery, HTML used for markup and CSS used for styling.
+This is my first ever web application, it's a simple chat application where the user interacts with the computer, which responds with random responses.
 
 ![skynetchathome](https://user-images.githubusercontent.com/71923215/95297993-a2c8cb80-087b-11eb-984e-e16b91158f84.jpg)
 
 ## Usage
 
-[https://skynet-chat.herokuapp.com](https://skynet-chat.herokuapp.com)
+[Skynet Chat's Official Website](https://skynet-chat.herokuapp.com)
+
+## Technologies Used
+
+|          |           |      |       |     |
+|----------|-----------|------|-------|-----|
+| **Back End** | Node | Express | JavaScript |
+| **Front End** | JavaScript | jQuery | HTML | CSS |
 
 ## Features
 
