@@ -10,10 +10,10 @@ This is my first ever web application, it's a simple chat application where the 
 
 ## Technologies Used
 
-|          |           |      |       |     |
-|----------|-----------|------|-------|-----|
-| **Back End** | Node | Express | JavaScript |
-| **Front End** | JavaScript | jQuery | HTML | CSS |
+|          |            |
+|----------|------------|
+| **Back End** | Node, Express, JavaScript |
+| **Front End** | JavaScript, jQuery, HTML, CSS |
 
 ## Features
 
